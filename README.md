@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![image13](https://user-images.githubusercontent.com/78140726/195000599-f0c2b5b1-c402-4aaa-a3c7-60f62b5cd48e.PNG)
 
+![image12](https://user-images.githubusercontent.com/78140726/195000708-36c396a7-a3f0-4bfa-b390-4ae2f661fc02.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
